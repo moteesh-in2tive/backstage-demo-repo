@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-demo-repo
+  annotations:
+    github.com/project-slug: in2tivetech/backstage-demo-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-b
